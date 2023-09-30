@@ -167,3 +167,12 @@ a {
     color: #ffffff;
 }
 
+.hero-text{
+    color: white;
+        font-size: 56px;
+        font-family: Roboto;
+        font-weight: 700;
+        line-height: 60px;
+        letter-spacing: 1.12px;
+
+}
